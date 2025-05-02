@@ -99,7 +99,7 @@ Untuk menjalankan dashboard ini, Anda memerlukan lingkungan pengembangan Python 
 
 ## Business Dashboard
 
-Dashboard dapat diakses pada Link berikut ini:
+Dashboard dapat diakses pada Link berikut ini: [Dashboard HR Analytics](https://lookerstudio.google.com/reporting/7dada5b8-712f-46d5-8811-1489af984b89)
 ## Ringkasan Pertanyaan dalam Dashboard
 
 Dashboard ini berfokus pada analisis attrition (perputaran karyawan) dan faktor-faktor yang memengaruhinya. Berikut adalah penjelasan singkat dari **18 pertanyaan** utama yang divisualisasikan dalam dashboard:
